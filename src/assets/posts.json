@@ -1,0 +1,12 @@
+{
+    "post1": {
+        "title": "first post",
+        "text":"text",
+        "author":"theo"
+    },
+    "post2": {
+        "title": "second post",
+        "text":"second text",
+        "author": "sam"
+    }
+}
