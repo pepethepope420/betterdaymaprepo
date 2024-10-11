@@ -9,7 +9,13 @@
   </header>
 
   <main>
-    <h1>Email:</h1><input type="text">
+    <p>Email:</p><input type="text">
     <button>login</button>
   </main>
 </template>
+
+<style scoped>
+main {
+  display: inline;
+}
+</style>
